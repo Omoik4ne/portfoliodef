@@ -10,3 +10,22 @@ https://github.com/Omoik4ne/detective.git
 
 https://github.com/Omoik4ne/celsiusfar.git
 
+https://github.com/Omoik4ne/EpreuveJS.git
+
+https://github.com/Omoik4ne/veggiefight.git
+
+https://github.com/Omoik4ne/calculator.git
+
+https://github.com/Omoik4ne/pickacolor.git
+
+https://github.com/Omoik4ne/fortuneteller.git
+
+https://github.com/Omoik4ne/robotgame.git
+
+https://github.com/Omoik4ne/pianoplayer.git
+
+https://github.com/Omoik4ne/r2d2.git
+
+https://github.com/Omoik4ne/equation.git
+
+
